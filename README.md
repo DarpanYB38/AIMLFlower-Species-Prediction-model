@@ -11,6 +11,7 @@ First you have to install latest version of Python from the python's official we
 After Setting up the python you can download vs code its optional i suggest the vs only of the code editting purpose 
 
 # How to Run ## This will work for both windows as well as linux based systems like ubuntu
+* iris.csv file is the dataset which is been trained for the Machine.
 * Install the django form your command Prompt
   by using the following command
   pip install django
@@ -25,7 +26,7 @@ After Setting up the python you can download vs code its optional i suggest the 
 * then clone this repo or Download .zip file and run your project form the command prompt only by using this command
         python manage.py runserver
 
-*Then the server will start copy the url like this 127.0.0.1.8000 and copy & past it to the any of the browser you choose
+* Then the server will start copy the url like this 127.0.0.1.8000 and copy & past it to the any of the browser you choose
 * The simple Project will be Displaying
 
 # If You have Anaconda Installed in your system then no need to install these packags execpt Python and django
