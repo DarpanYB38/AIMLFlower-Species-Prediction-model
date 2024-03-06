@@ -23,13 +23,13 @@ After Setting up the python you can download vs code its optional i suggest the 
     pip install scikit-learn<br>
     ***
 * Then at last you have to install the pandas to read the data from the dataset provided in the project by using<br>
-      ***
-      pip install pandas
-      ***
+  ***
+  pip install pandas
+  ***
 * then clone this repo or Download .zip file and run your project form the command prompt only by using this command<br>
-        ***
-        python manage.py runserver
-        ***
+  ***
+  python manage.py runserver
+  ***
 * Then the server will start copy the url like this 127.0.0.1.8000 and copy & past it to the any of the browser you choose<br>
 * The simple Project will be Displaying<br>
 
