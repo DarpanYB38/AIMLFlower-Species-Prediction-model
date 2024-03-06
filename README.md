@@ -28,5 +28,5 @@ After Setting up the python you can download vs code its optional i suggest the 
 *Then the server will start copy the url like this 127.0.0.1.8000 and copy & past it to the any of the browser you choose
 * The simple Project will be Displaying
 
-# If You have Anaconda Installed in your system then no need to install these packags exept Python and django
+# If You have Anaconda Installed in your system then no need to install these packags execpt Python and django
 If u have Ananconda Also You need Python & django On your System to run this project. 
