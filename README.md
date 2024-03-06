@@ -11,9 +11,9 @@ First you have to install latest version of Python from the python's official we
 After Setting up the python you can download vs code its optional i suggest the vs only of the code editting purpose 
 
 # How to Run ## This will work for both windows as well as linux based systems like ubuntu
-* iris.csv file is the dataset which is been trained for the Machine.
-* Install the django form your command Prompt
-  by using the following command
+* iris.csv file is the dataset which is been trained for the Machine.<br>
+* Install the django form your command Prompt<br>
+  by using the following command<br>
   pip install django
 
 * You have to install the sklearn to run these ML projects because this carries all the ML algorithms in it 
