@@ -1,37 +1,33 @@
-# AIMLFlower-Species-Prediction-model
-Its a Machine Learning Project to Predict a Flowers particular Species type using its length and width of the pettals it uses the knn algorithm<br>
+# Iris Prediction System
+# Introduction
+This is a simple single-page machine learning prediction system built using Python Django. It predicts the species of Iris flowers based on input features such as sepal length, sepal width, petal length, and petal width.
 
-# Caution 
-Its just a simple model of machine learning to preidict a paticular flowers Species type using the already existng dataset, its suggested to use at the college levels mini project type not the industry level project.<br>
-This is done using python(django) at the backend and the html with bootstartp at the front end and the models in side the python <br>
+# Features
+Prediction: Predict the species of Iris flowers based on input features.
+User-friendly Interface: Simple interface for inputting data and viewing predictions.
+Machine Learning Model: Utilizes a trained machine learning model to make predictions.
+# Installation
+Clone the repository:
+git clone https://github.com/DarpanYB38/iris-prediction-system.git
 
-# Mandatory Need to have in your system 
-First you have to install latest version of Python from the python's official website <br>
+Install dependencies:
+latest version of python 
+pip install django 
 
-After Setting up the python you can download vs code its optional i suggest the vs only of the code editting purpose <br>
+Run the development server:
+python manage.py runserver
 
-# How to Run ## This will work for both windows as well as linux based systems like ubuntu
-* iris.csv file is the dataset which is been trained for the Machine.<br>
-* Install the django form your command Prompt<br>
-  by using the following command<br>
-  ***
-  pip install django
-  ***
-* You have to install the sklearn to run these ML projects because this carries all the ML algorithms in it<br>
-    by using<br>
-    ***
-    pip install scikit-learn<br>
-    ***
-* Then at last you have to install the pandas to read the data from the dataset provided in the project by using<br>
-  ***
-  pip install pandas
-  ***
-* then clone this repo or Download .zip file and run your project form the command prompt only by using this command<br>
-  ***
-  python manage.py runserver
-  ***
-* Then the server will start copy the url like this 127.0.0.1.8000 and copy & past it to the any of the browser you choose<br>
-* The simple Project will be Displaying<br>
+Access the application at http://localhost:8000.
 
-# If You have Anaconda Installed in your system then no need to install these packags execpt Python and django
-If u have Ananconda Also You need Python & django On your System to run this project. 
+# Usage
+Input the required features such as sepal length, sepal width, petal length, and petal width.
+Click on the "Predict" button to see the predicted species of the Iris flower.
+Contributing
+Contributions are welcome! Please follow the Contributing Guidelines.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgements
+Django - Web framework used for building the application
+scikit-learn - Machine learning library used for prediction
